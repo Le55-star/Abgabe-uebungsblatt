@@ -9,8 +9,10 @@ The `lazyleonpackage` package provides functions for easy data manipulation and 
 }
 \section{Functions}{
 
-- `plot_variable_over_time`: Visualizes the development of a variable over time using ggplot2.
-- `plot_correlation`: Creates a plot showing the correlation between two variables.
-- `add_binary_column`: Adds a binary column to a data frame based on a specified value in another column.
+- \code{\link{plot_variable_over_time}}: Visualizes the development of a variable over time using ggplot2.
+
+- \code{\link{plot_correlation}}: Creates a scatter plot showing the correlation between two variables.
+
+- \code{\link{add_binary_column}}: Adds a binary column to a data frame based on a specified value in another column.
 }
 
