@@ -1,0 +1,13 @@
+Package: lazyleonpackage
+Type: Package
+Title: data manipulation and visualization
+Version: 0.1.0
+Author: Leon B.
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: A Package for lazy students who want to have an easy time working with R.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2
+RoxygenNote: 7.1.2
